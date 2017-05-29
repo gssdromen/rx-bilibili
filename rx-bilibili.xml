@@ -1,13 +1,11 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v3">
       <prescription type="service" package="tv.danmaku.bili" class="tv.danmaku.bili.ui.player.notification.BackgroundMusicService" sender="any"/>
-      <prescription type="service" package="tv.danmaku.bili" class="tv.danmaku.ijk.media.player.services.IjkMediaPlayerService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.bilibili.lib.infoeyes.InfoEyesLocalService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.bilibili.lib.infoeyes.InfoEyesRemoteService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.xiaomi.mipush.sdk.MessageHandleService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.evernote.android.job.v14.PlatformAlarmService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.evernote.android.job.v21.PlatformJobService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.xiaomi.mipush.sdk.PushMessageHandler" sender="any"/>
-      <prescription type="service" package="tv.danmaku.bili" class="com.bilibili.bilibililive.ui.livestreaming.services.StreamingService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="tv.danmaku.bili.update.UpdateService" sender="any"/>
       <prescription type="service" package="tv.danmaku.bili" class="com.xiaomi.push.service.XMPushService" sender="any"/>
 
